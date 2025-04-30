@@ -1,0 +1,4 @@
+task_0:
+ video_path: "data/video/source.mp4"
+ audio_path: "data/audio/2184dab7.m4a"
+ bbox_shift: -7
