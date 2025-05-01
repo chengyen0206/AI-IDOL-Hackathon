@@ -40,7 +40,7 @@ This project was created as part of a 30-hour hackathon focused on applying Gene
 
 ## 📷 Demo Video
 
-![Demo Video](img/demoj.mp4)
+![Demo Video](https://drive.google.com/file/d/1s_rPr9XYgLoL7SG_6SmI9qa78YNZ05b3/view?usp=sharing)
 
 ## 📦 How to Run
 
