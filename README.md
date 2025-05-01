@@ -38,10 +38,9 @@ This project was created as part of a 30-hour hackathon focused on applying Gene
 ## 📂 System Architecture
 ![System Architecture](img/architecture.jpg)
 
-## 📷 Demo Screenshots
+## 📷 Demo Video
 
-![screenshot-1](link_to_image_1)
-![screenshot-2](link_to_image_2)
+![Demo Video](img/demo.mp4)
 
 ## 📦 How to Run
 
