@@ -2,6 +2,15 @@
 
 🎤 A Generative AI Idol system developed during the 2025 “雲湧智生：臺灣生成式 AI 應用黑客松競賽”, hosted by DIGITIMES and AWS, with the challenge topic provided by Gamania (橘子集團).
 
+## 📍 Competition Info
+
+- Event: [2025 雲湧智生：臺灣生成式 AI 應用黑客松](https://www.digitimes.com.tw/seminar/generativeai_hackathon/)
+- Dates: April 26–27, 2025
+- Location: 台北艾麗酒店
+- Team Name: `你願意一輩子和我一起做黑客松嗎`
+- Team Member: 謝誠諺、梁妤帆、曾宥霓、潘柏宏、游明睿
+- Challenge Topic: “AI 偶像” by Gamania
+
 ## 🧠 Project Overview
 
 This project was created as part of a 30-hour hackathon focused on applying Generative AI technologies. The challenge was to build an **interactive AI idol** capable of responding to user prompts with synthesized speech and visual expressions.
@@ -26,28 +35,13 @@ This project was created as part of a 30-hour hackathon focused on applying Gene
 | Hosting / Cloud | AWS SageMaker (MuseTalk), AWS Lambda / S3 – Model deployment & file storage |
 | Streaming & Utils | ffmpeg, WebSocket – Real-time audio streaming and conversion         |
 
+## 📂 System Architecture
+![System Architecture](img/architecture.jpg)
+
 ## 📷 Demo Screenshots
 
 ![screenshot-1](link_to_image_1)
 ![screenshot-2](link_to_image_2)
-
-## 📍 Competition Info
-
-- Event: [2025 雲湧智生：臺灣生成式 AI 應用黑客松](https://www.digitimes.com.tw/seminar/generativeai_hackathon/)
-- Dates: April 26–27, 2025
-- Location: 台北艾麗酒店
-- Team Name: `你願意一輩子和我一起做黑客松嗎`
-- Challenge Topic: “AI 偶像” by Gamania
-
-## 📂 Project Structure
-
-
-## 👥 Team Members
-
-- [你的名字1] – AI Model Integration
-- [你的名字2] – Frontend Engineering
-- [你的名字3] – Audio/Visual Processing
-- [你的名字4] – Project Coordination
 
 ## 📦 How to Run
 
@@ -58,5 +52,7 @@ cd AI-Idol-Hackathon
 
 # Install dependencies and start services (details inside each folder)
 ```
-#Acknowledgments
+## Acknowledgments
 Thanks to DIGITIMES, AWS, and Gamania Vyin AI for organizing this amazing hackathon opportunity.
+![Group Photo](img/group_photo.jpg)
+
